@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "aws_batch_adhoc"
+  site-url: "https://JRSR92.github.io/aws_batch_adhoc"
+  description: "This is a module to allow tables to be updated adhoc when the schedule job falls over or doesn't sync and you don't have to re run the whole process"
+  repo-branch: main
+  repo-url: "https://github.com/JRSR92/aws_batch_adhoc"
